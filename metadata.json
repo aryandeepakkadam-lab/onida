@@ -1,0 +1,6 @@
+{
+  "name": "Onida",
+  "description": "Production-quality brand experience and product showcase for Onida — technology that fits your life, built for real Indian homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
